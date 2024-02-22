@@ -1,3 +1,6 @@
 more code
 
 Adding code for data layer
+Add: added phophet.py
+todo: add outlier detection logic
+resolve conflict
