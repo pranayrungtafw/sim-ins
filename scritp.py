@@ -1,0 +1,1 @@
+# add prophet init script
