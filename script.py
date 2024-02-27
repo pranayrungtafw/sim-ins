@@ -5,3 +5,6 @@ def add_data_layer():
 
 def get_frequency_list():
     print("list of freq")
+
+def detect_insight():
+    print("insight")
