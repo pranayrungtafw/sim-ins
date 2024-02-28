@@ -6,5 +6,4 @@ def generate_outlier():
 
 def generate_trend():
     pass
-more code.
 add something
