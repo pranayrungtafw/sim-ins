@@ -9,7 +9,7 @@ def get_frequency_list():
 
 def my_feat():
     """
-    add comments
+    add comments for pull req
     """
     print("my_feat branch working!")
 

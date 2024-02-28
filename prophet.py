@@ -7,3 +7,5 @@ def generate_outlier():
 def generate_trend():
     pass
 add something
+
+## added changes for pull req
