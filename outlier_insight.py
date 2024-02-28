@@ -1,6 +1,6 @@
 def outlier_detection():
     """
-    added comments 
+    added comments
     """
     print("detecting outliers")
 
