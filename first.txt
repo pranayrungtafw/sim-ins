@@ -5,7 +5,6 @@ Add: added phophet.py
 todo: add outlier detection logic
 resolve conflict
 
-# working on my_feat branch
 
 # tested the code
 
@@ -15,3 +14,7 @@ resolve conflict
 
 
 # testing done
+
+## added changes for pull req
+
+## tested for pull req
