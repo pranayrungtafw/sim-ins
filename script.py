@@ -4,6 +4,9 @@ def add_data_layer():
 
 
 def get_frequency_list():
+    """
+    added some comments for sprint release 8
+    """
     print("list of freq")
 
 

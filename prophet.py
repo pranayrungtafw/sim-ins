@@ -15,6 +15,8 @@ def generate_trend():
 
 ## added changes for pull req
 
+## addeding some changes to be merged in master
+
 ## adding insights curation
 def curate_insights():
     pass
