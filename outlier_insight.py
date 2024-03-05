@@ -10,6 +10,9 @@ def outlier_detection():
 
 
 def add_multilanguage():
+    """
+    Added some comments
+    """
 
     print("List of languages")
 
