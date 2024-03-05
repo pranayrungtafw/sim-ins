@@ -6,6 +6,10 @@ def generate_outlier():
 
 def generate_trend():
     pass
-add something
+# add something
 
 ## added changes for pull req
+
+## adding insights curation
+def curate_insights():
+    pass
