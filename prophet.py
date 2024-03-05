@@ -23,3 +23,6 @@ def curate_insights():
 
 def intergation():
     pass
+
+def add_something():
+    pass
