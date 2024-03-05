@@ -16,10 +16,13 @@ def generate_trend():
 ## added changes for pull req
 
 ## addeding some changes to be merged in master
-
+## added changes for sprint 9
 ## adding insights curation
 def curate_insights():
     pass
 
 def intergation():
+    pass
+
+def add_something():
     pass
