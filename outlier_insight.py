@@ -2,9 +2,7 @@
 def outlier_detection():
 
     """
-
     added comments
-
     """
 
     print("detecting outliers")
