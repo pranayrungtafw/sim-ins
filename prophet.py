@@ -11,3 +11,10 @@ def generate_trend():
 
 ## added changes for pull req 2
 
+# add something
+
+## added changes for pull req
+
+## adding insights curation
+def curate_insights():
+    pass
