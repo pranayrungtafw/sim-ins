@@ -1,4 +1,4 @@
-This is a dummy file.
+# This is a dummy file.
 # working on my_feat branch
 
 def generate_outlier():
@@ -6,6 +6,8 @@ def generate_outlier():
 
 def generate_trend():
     pass
-add something
 
 ## added changes for pull req
+
+## added changes for pull req 2
+

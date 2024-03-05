@@ -5,5 +5,8 @@ def outlier_detection():
     print("detecting outliers")
 
 def add_multilanguage():
+    """
+    Added some comments
+    """
     print("List of languages")
 
