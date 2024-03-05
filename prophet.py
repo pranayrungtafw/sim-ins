@@ -18,3 +18,6 @@ def generate_trend():
 ## adding insights curation
 def curate_insights():
     pass
+
+def intergation():
+    pass
